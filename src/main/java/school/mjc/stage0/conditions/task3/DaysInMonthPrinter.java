@@ -5,7 +5,7 @@ public class DaysInMonthPrinter {
         if(month == 1)
             System.out.println(31);
         else if(month == 2)
-            System.out.println(28 + "or" + 29);
+            System.out.println(28);
         else if(month == 3)
             System.out.println(31);
         else if(month == 4)
